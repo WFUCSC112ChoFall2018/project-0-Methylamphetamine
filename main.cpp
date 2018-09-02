@@ -1,5 +1,3 @@
-//This comment is written down on a computer running 32-bit MSVS.
-//Test again
 #include <iostream>
 using namespace std;
 int main() {
